@@ -176,6 +176,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service-sdm
 
+# Lights 
+PRODUCT_PACKAGES += \
+    lights.lahaina
+
 # Media
 PRODUCT_PACKAGES += \
     libstagefright_omx \
